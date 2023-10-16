@@ -1,4 +1,4 @@
-# about my project game
+# about game
 create with unity game engine using C# language
 export to APK for android user
 
